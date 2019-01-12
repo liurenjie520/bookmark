@@ -14,3 +14,6 @@ https://sourceforge.net/projects/resurrectionremix-oreo/files/
 # mokee
 https://download.mokeedev.com/
 --------------------------------
+# androidfilehost
+https://androidfilehost.com/
+--------------------------------
